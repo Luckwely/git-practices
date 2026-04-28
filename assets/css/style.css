@@ -3,3 +3,8 @@
     padding: 0;
     margin: 0;
 }
+
+#content {
+    color: red;
+    margin-top: 2rem;
+}
